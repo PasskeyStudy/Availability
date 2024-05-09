@@ -36,8 +36,7 @@ The implementation offers the following functionality.
 
 ### General
 * Registration and login are not separated in the user interface to streamline the authentication process, meaning the user can authenticate, and the implementation automatically detects whether it was a first-time registration (and creates a new account) or a login
-* The order of both buttons `Use a Password` and `Use a Passkey` are randomized each time the website is loaded  
-  (try `F5` on Windows or `Cmd + R` on Mac)
+* The order of both buttons `Use a Password` and `Use a Passkey` are randomized each time the website is loaded (try `F5` on Windows or `Cmd + R` on Mac)
 
 ### Passkeys
 * First Factor: The stored passkey *(something you have)*
