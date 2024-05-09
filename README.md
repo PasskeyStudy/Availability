@@ -97,7 +97,7 @@ Passkeys are available on a variety of devices: (see also [passkeys.dev/device-s
 
 We analyzed all quantitative data with the statistical software `SPSS 29.0.1` and published the results in the folder [SPSS](SPSS/).
 
-We conducted two user studies. Study 1 analyzes users' motivation to use passkeys, and Study 2 investigates users' experiences with passkeys. The participants of Study 2 are a subset of the participants from Study 1. In both studies, we have a group that uses passkeys (Group K) and a group that uses passwords (Group W). We reference the corresponding Table within the paper for each SPSS document.
+We conducted two user studies. Study 1 analyzes users' motivation to use passkeys, and Study 2 investigates users' experiences with passkeys. The participants of Study 2 are a subset of the participants from Study 1. In both studies, we have a group that uses passkeys (`Group K`) and a group that uses passwords (`Group W`). We reference the corresponding Table within the paper for each SPSS document.
 
 ### Study 1 (Motivating Factors)
 * Participants' demographics from `Table 9` (n=6,750): [Demographics Study 1](SPSS/study1_demographics.pdf)
