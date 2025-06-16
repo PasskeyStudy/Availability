@@ -1,0 +1,5 @@
+AuthUserFile /www/htdocs/w017edb8/passkey.uversy.com/src/.htpasswd
+AuthGroupFile /dev/null
+AuthName 'bitte Zugangsdaten eingeben'
+AuthType Basic
+require valid-user
